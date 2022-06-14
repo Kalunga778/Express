@@ -21,6 +21,13 @@ const members=[
 
     },
 
+    {
+        id:4,
+        Name:'Samson7@gmail.com',
+        Email:'samsonKalunga@gmail.com',
+        status:'active'
+    }
+
 ]
 
 module.exports=members;
